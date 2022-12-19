@@ -1,0 +1,22 @@
+{
+  "name": "react-native-signin-with-facebook",
+  "version": "1.0.1",
+  "description": "FaceBook login with single click and get signIn data...",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install react-native-fbsdk"
+  },
+  "keywords": [
+    "react-native",
+    "fbsdk"
+  ],
+  "author": "Innvonix Tech Solutions Private Limited",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "readme": "FaceBook login with single click and get data...",
+  "dependencies": {
+    "react-native-fbsdk": "^3.0.0"
+  }
+}
