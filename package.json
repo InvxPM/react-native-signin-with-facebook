@@ -1,6 +1,6 @@
 {
   "name": "react-native-signin-with-facebook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "FaceBook login with single click and get signIn data...",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,11 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": "https://github.com/InvxPM/react-native-signin-with-facebook",
+  "bugs": {
+    "url": "https://github.com/InvxPM/react-native-signin-with-facebook/issues"
+  },
+  "homepage": "https://github.com/InvxPM/react-native-signin-with-facebook#readme",
   "readme": "FaceBook login with single click and get data...",
   "dependencies": {
     "react-native-fbsdk": "^3.0.0"
